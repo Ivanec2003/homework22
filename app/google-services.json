@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584422493043",
+    "project_id": "testnotification-b3389",
+    "storage_bucket": "testnotification-b3389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584422493043:android:b56106c57a49e70ce71306",
+        "android_client_info": {
+          "package_name": "com.example.homework22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkyaVP1Mns5ZIrmB7DX7DDYdqE6ISRnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
